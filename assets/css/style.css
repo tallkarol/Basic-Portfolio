@@ -261,6 +261,15 @@ nav a:active {
             overflow: auto;
         }
 
+
+/* CSS FOR CONTACT.HTML */
+
+        form {
+            margin-left: 10%;
+            margin-right: 10%;
+            line-height: 30px;
+        }
+
 /* CSS FOR ALL PAGES */
 
     /* FOOTER */
