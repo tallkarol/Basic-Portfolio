@@ -151,6 +151,7 @@ nav a:active {
             margin-right: 1%;
             margin-bottom: 15px;
             margin-left: 2.5%;
+            position: relative;
         }
 
         section.developerSmall {
@@ -162,6 +163,7 @@ nav a:active {
             margin-right: 1.5%;
             margin-bottom: 15px;
             margin-left: 1.5%;
+            position: relative;
         }
 
         section.entrepreneurSmall {
@@ -268,6 +270,19 @@ nav a:active {
             margin-left: 10%;
             margin-right: 10%;
             line-height: 30px;
+        }
+
+/* CSS FOR PORTFOLIO.HTML */
+
+        div.portfolioBanner {
+            background-color: #16ff9ea1;
+            height: 30%;
+            width: 100%;
+            position: absolute;
+            bottom: 20px;
+            /* overflow: hidden; */
+            font-family: 'Montserrat', sans-serif;
+            text-align: center;
         }
 
 /* CSS FOR ALL PAGES */
