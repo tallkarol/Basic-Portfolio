@@ -300,6 +300,13 @@ nav a:active {
         }
 
 
+        /* To fix the issue of only having hover effects in the banner - style the container as a whole? or nest the html? or not sure */
+        div.portfolioBanner:hover {
+            height: 32%;
+            background-color: #66ffbf;
+        }
+
+
 
 /* CSS FOR ALL PAGES */
 
