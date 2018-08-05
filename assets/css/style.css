@@ -272,6 +272,20 @@ nav a:active {
             line-height: 30px;
         }
 
+        input {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 0px 0;
+            box-sizing: border-box;
+        }
+
+        textarea {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 0px 0;
+            box-sizing: border-box;
+        }
+
 /* CSS FOR PORTFOLIO.HTML */
 
         div.portfolioBanner {
